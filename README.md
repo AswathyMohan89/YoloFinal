@@ -8,3 +8,4 @@ The Yolo weights can be downloaded from: "https://pjreddie.com/media/files/yolov
 There is 3 main python files: detect.py, darknet.py and util.py
 
 The detect.py is the main code, that need to be executed. The command is : `python detect.py --images dog-cycle-car.png --det det`
+The output gets saved in det folder, with name `det_dog-cycle-car.png`.
